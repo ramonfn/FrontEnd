@@ -1,3 +1,22 @@
 main{
-    color: rgb(0, 70, 17);
+    margin: 100px;
+    margin-bottom: right;
+    border-style:groove;
+    border: black solid;
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd5OHEwMXpod2doMHBkM3JjMHpudDZoM3M3dm9oODI4Mzd0MjR3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vfhj19PusenfO/giphy.gif);
+    background-repeat: repeat;
+    color: rgb(255, 255, 255);
+    background-position: auto
+
+}
+main :active{
+    border: rgb(79, 175, 79) solid;
+}
+main::content{
+    transition: all;
+    box-decoration-break: clone;
+}
+
+{
+    text-align: center;
 }
