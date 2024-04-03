@@ -16,7 +16,7 @@ main:hover{
 }
 
 .cadastro{
-    color: rgb(92, 4, 4);
+    color: rgb(255, 255, 255);
     margin: 40px solid;
     
     text-align: center;
@@ -48,5 +48,13 @@ main:hover{
     color: aquamarine;
 }
 body{
-    background-color: rgb(111, 111, 245);
+    background-color: rgb(5, 5, 94);
+}
+
+.linguagens{
+    text-align: center;
+}
+
+.check{
+    text-align: center;
 }
