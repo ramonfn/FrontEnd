@@ -1,0 +1,11 @@
+div{
+    background-color: coral;
+}
+
+.medida-pixel{
+    width: 1000px;
+}
+
+.medida-porcentagem{
+    width: 50%;
+}
