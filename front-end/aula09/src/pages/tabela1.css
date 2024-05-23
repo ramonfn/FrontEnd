@@ -1,0 +1,11 @@
+table, th, td{
+    border: 1px solid #ffffff;
+    color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+    background-image: url(https://media.giphy.com/media/JHsos369mkc0M/giphy.gif?cid=790b7611nyrw72mg8leuv7zdy36gcpnwl5hvng4n66bpnsfn&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+}
